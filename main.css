@@ -112,5 +112,19 @@ background-color: rgb(128, 64, 0);
 	background-color:rgb(102, 153, 0);
 	color:black;
 }
+.main {
+			lex:70%;
+		background-color: gray;
+		padding:20px;
+		text-align:center;
+		color:white;
+		font-family: lehmann, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+		font-size:25px;
+		letter-spacing:3px;
+		word-spacing:3px;
+		
+		}
 @media screen and (max-width:700px)
 {}
